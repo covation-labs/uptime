@@ -1,42 +1,38 @@
 [
   {
     "name": "Shorterloop",
-    "url": "https://www.shorterloop.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.shorterloop.com.ico",
+    "url": "https://prodeasy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/prodeasy.com.ico",
     "slug": "shorterloop",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-04": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shorterloop API",
-    "url": "https://api.prodeasy.com",
-    "icon": "https://icons.duckduckgo.com/ip3/api.prodeasy.com.ico",
+    "url": "https://app-api.prodeasy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app-api.prodeasy.com.ico",
     "slug": "shorterloop-api",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-04": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
