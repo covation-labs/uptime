@@ -1,8 +1,8 @@
 [
   {
     "name": "Shorterloop",
-    "url": "https://www.shorterloop.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.shorterloop.com.ico",
+    "url": "https://prodeasy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/prodeasy.com.ico",
     "slug": "shorterloop",
     "status": "down",
     "uptime": "0.00%",
@@ -16,13 +16,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-04": 1
+      "2023-07-04": 2
     }
   },
   {
     "name": "Shorterloop API",
-    "url": "https://api.prodeasy.com",
-    "icon": "https://icons.duckduckgo.com/ip3/api.prodeasy.com.ico",
+    "url": "https://app-api.prodeasy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app-api.prodeasy.com.ico",
     "slug": "shorterloop-api",
     "status": "down",
     "uptime": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-04": 1
+      "2023-07-04": 2
     }
   }
 ]
