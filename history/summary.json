@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-api.prodeasy.com.ico",
     "slug": "shorterloop-api",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 993,
     "timeDay": 1057,
     "timeWeek": 1048,
     "timeMonth": 1013,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-08-10": 14,
       "2023-07-04": 14
     }
   }
