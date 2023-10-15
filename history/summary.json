@@ -4,19 +4,19 @@
     "url": "https://prodeasy.com",
     "icon": "https://icons.duckduckgo.com/ip3/prodeasy.com.ico",
     "slug": "shorterloop",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 195,
-    "timeDay": 141,
+    "timeDay": 145,
     "timeWeek": 178,
-    "timeMonth": 195,
+    "timeMonth": 194,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-15": 43
+      "2023-10-15": 32
     }
   },
   {
