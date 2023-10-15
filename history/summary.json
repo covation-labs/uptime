@@ -4,18 +4,20 @@
     "url": "https://prodeasy.com",
     "icon": "https://icons.duckduckgo.com/ip3/prodeasy.com.ico",
     "slug": "shorterloop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 140,
-    "timeWeek": 202,
-    "timeMonth": 205,
-    "timeYear": 198,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 124,
+    "timeWeek": 190,
+    "timeMonth": 201,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2023-10-15": 0
+    }
   },
   {
     "name": "Shorterloop API",
