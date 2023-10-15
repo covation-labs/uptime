@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prodeasy.com.ico",
     "slug": "shorterloop",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 196,
-    "timeDay": 123,
-    "timeWeek": 179,
-    "timeMonth": 196,
+    "timeDay": 149,
+    "timeWeek": 185,
+    "timeMonth": 198,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-10-15": 39
+      "2023-10-15": 32
     }
   },
   {
