@@ -6,17 +6,16 @@
     "slug": "shorterloop",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 192,
-    "timeDay": 188,
+    "time": 191,
+    "timeDay": 179,
     "timeWeek": 172,
     "timeMonth": 180,
-    "timeYear": 192,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-10-19": 7,
       "2023-10-15": 32
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 521,
-    "timeWeek": 621,
-    "timeMonth": 568,
-    "timeYear": 845,
+    "time": 842,
+    "timeDay": 482,
+    "timeWeek": 631,
+    "timeMonth": 569,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2023-07-04": 14
     }
