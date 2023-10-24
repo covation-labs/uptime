@@ -11,7 +11,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 656,
+    "timeDay": 310,
     "timeWeek": 232,
     "timeMonth": 199,
     "timeYear": 199,
@@ -24,9 +24,9 @@
     "url": "https://app-api.prodeasy.com",
     "icon": "https://icons.duckduckgo.com/ip3/app-api.prodeasy.com.ico",
     "slug": "shorterloop-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +36,7 @@
     "timeMonth": 584,
     "timeYear": 835,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-07-04": 14
     }
   }
