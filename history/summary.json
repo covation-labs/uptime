@@ -11,8 +11,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 310,
-    "timeWeek": 232,
+    "timeDay": 110,
+    "timeWeek": 224,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -26,17 +26,16 @@
     "slug": "shorterloop-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 832,
-    "timeDay": 573,
-    "timeWeek": 586,
-    "timeMonth": 583,
-    "timeYear": 832,
+    "time": 829,
+    "timeDay": 521,
+    "timeWeek": 570,
+    "timeMonth": 584,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2023-10-24": 7,
       "2023-07-04": 14
     }
   }
