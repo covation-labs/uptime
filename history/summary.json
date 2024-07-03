@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 290,
-    "timeWeek": 238,
+    "timeDay": 153,
+    "timeWeek": 226,
     "timeMonth": 193,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-api.shorterloop.com.ico",
     "slug": "shorterloop-api",
     "status": "down",
-    "uptime": "74.58%",
+    "uptime": "74.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.54%",
-    "uptimeMonth": "17.15%",
-    "uptimeYear": "74.58%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "20.44%",
+    "uptimeYear": "74.65%",
     "time": 690,
     "timeDay": 0,
     "timeWeek": 0,
@@ -129,8 +129,7 @@
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
-      "2023-11-02": 1222,
-      "2023-07-04": 14
+      "2023-11-02": 1222
     }
   }
 ]
